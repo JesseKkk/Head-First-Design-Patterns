@@ -1,2 +1,2 @@
 # Head-First-Design-Patterns
-This is source code
+This is the source code
